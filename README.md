@@ -1,5 +1,5 @@
 # npEA
-- **Current version = 1.0.1**
+- **Current version = 1.0.2**
 
 ### Overview
 
@@ -19,7 +19,7 @@ pip install numpy==1.26.0
 
 Use pip to install npEA with a specific version:
 ```
-pip install npea==1.0.1
+pip install npea==1.0.2
 ```
 
 
@@ -182,6 +182,9 @@ print('gbestSol: ' + str(gbestSol) )
 
 
 ### Changelog 
+
+- Version 1.0.2
+Modified version number.
 
 - Version 1.0.1
 Releasing the package. 
