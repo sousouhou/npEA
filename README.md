@@ -184,9 +184,12 @@ print('gbestSol: ' + str(gbestSol) )
 ### Changelog 
 
 - Version 1.0.2
+
 Modifying version number. 
 
+
 - Version 1.0.1
+
 Releasing the package. 
 
 
